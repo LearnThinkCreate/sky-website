@@ -1,0 +1,15 @@
+Testing:
+
+SSO TOKEN
+q7TLVgwzlUN6IUrVCT7A8ulqwODxyJxaWyzqARY7gsclr7wbbcrhnJvN7+kCc6/RokO7CxX7svcIIWw27BZ9jQ==
+
+URL
+http://127.0.0.1:8000
+
+Development
+
+SSO TOKEN
+BHOxRnWJlaXPd1Zr+iM+1MaGRlLI80gd+oY/AK2jLBvVzJ0XochIbaF8wpsjpjzDA4YvQ4sPAdRdSXNjfqHD7w==
+
+https://dash-service-omrjnftinq-ue.a.run.app
+
