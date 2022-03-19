@@ -169,3 +169,6 @@ REST_FRAMEWORK = {
         'rest_framework.parsers.JSONParser',
     ]
 }
+
+SESSION_COOKIE_AGE = 60 * 30  # Session will expiry after 30 minutes idle.
+SESSION_SAVE_EVERY_REQUEST = True
